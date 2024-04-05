@@ -1,0 +1,39 @@
+body{
+    background-image: url(Spongebob\ Flower\ Sky\ Backgrounds\ -\ Wallpaper\ Cave.jpeg);
+    background-size: cover;
+    height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+text-align: center;
+}
+
+.samba{
+    text-align: center;
+    border-style: groove;
+    border-radius: 5px;
+    width: 600px;
+    margin: 15% auto;
+    display: block;
+    background-color: aqua;
+}
+input{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    text-align: center;
+    font-size: medium;
+    width: 200px;
+    height: 40px;
+}
+button{
+    background-color: rgb(107, 201, 224);
+    width: 100px;
+    height: 45px;
+    border-radius: 5px;
+    border-color: aliceblue;
+    cursor: pointer;
+    color: aliceblue;
+}
+button:hover{
+    background-image:linear-gradient(to bottom, rgb(150, 165, 149)rgb(223, 241, 215)8)   
+}
